@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "756354535930",
+    "firebase_url": "https://mlkit-face-detect-e5e07.firebaseio.com",
+    "project_id": "mlkit-face-detect-e5e07",
+    "storage_bucket": "mlkit-face-detect-e5e07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756354535930:android:f5fe6ebed7207311881443",
+        "android_client_info": {
+          "package_name": "com.semicolon.emotiondetect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756354535930-cmgk5qva7hs5ncjn2ac3ftbauct9e217.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.semicolon.emotiondetect",
+            "certificate_hash": "1316327c96cced1c446d20fda12bdedc1f6325df"
+          }
+        },
+        {
+          "client_id": "756354535930-8lis4si5iiac02d32k2kp8jvo18bcnjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvuQt19rD9Ky15JyLx5pjWM8vN8GJDZK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756354535930-8lis4si5iiac02d32k2kp8jvo18bcnjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
